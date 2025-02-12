@@ -1,4 +1,4 @@
-# Hindi Language analysis
+# Hindi Text Analysis: NLP-Powered Insights & Sentiment Detection
 
 This project preprocesses Hindi text using the **IndicNLP** library for normalization and tokenization. A **custom tokenizer** enhances this process by cleaning text, removing stop words, and handling language-specific nuances.  
 
